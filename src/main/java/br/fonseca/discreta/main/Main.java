@@ -1,4 +1,4 @@
-package br.com.discretaav1.main;
+package br.fonseca.discreta.main;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -12,8 +12,8 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import br.com.discretaav1.modelo.Pessoa;
-import br.com.discretaav1.util.Util;
+import br.fonseca.discreta.modelo.Pessoa;
+import br.fonseca.discreta.util.Util;
 
 public class Main {
 	public static void main(String[] args) throws FileNotFoundException, ParseException {

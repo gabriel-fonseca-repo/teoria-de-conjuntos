@@ -1,4 +1,4 @@
-package br.com.discretaav1.util;
+package br.fonseca.discreta.util;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -8,10 +8,10 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Scanner;
 
-import br.com.discretaav1.modelo.Aluno;
-import br.com.discretaav1.modelo.Busologo;
-import br.com.discretaav1.modelo.Pessoa;
-import br.com.discretaav1.modelo.VitimaDengue;
+import br.fonseca.discreta.modelo.Aluno;
+import br.fonseca.discreta.modelo.Busologo;
+import br.fonseca.discreta.modelo.Pessoa;
+import br.fonseca.discreta.modelo.VitimaDengue;
 
 public class Util {
 

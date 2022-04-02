@@ -1,4 +1,4 @@
-package br.com.discretaav1.modelo;
+package br.fonseca.discreta.modelo;
 
 import java.util.Date;
 import java.util.Locale;
